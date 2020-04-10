@@ -14,7 +14,7 @@ public class GerenciadoraClientesTest_Ex1 {
 	@Test
 	public void testPesquisaCliente() {
 		
-		//Criando cliente
+		//Criando cliente para testar.
 		Cliente cliente01 = new Cliente(1, "Gustavo Farias", 31, "gugafarias@gmail.com", 1, true);
 		Cliente cliente02 = new Cliente(2, "Felipe Augusto", 34, "felipeaugusto@gmail.com", 1, true);
 		
